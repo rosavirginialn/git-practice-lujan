@@ -5,6 +5,6 @@ int main() {
     cout << "¡Hola Mundo desde Git!" << endl;
     cout << "Mi nombre es: Rosavirginia Lujan" << endl;
     cout << "Estoy aprendiendo Git en Programación II" << endl;
-    cout << "Este es mi segundo commit!" << endl;
+    cout << "Este es mi tercer commit!" << endl;
     return 0;
 }
